@@ -60,4 +60,12 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+
+![Optical communication modes](https://github.com/user-attachments/assets/25624d27-9bfb-452e-b2f4-31996a3cf2db)
+
 ## Result
+
+Thus, the mode characteristics of fibre optic cable and the lower order linearly polarized modes are studies and observed.
+
+
+
